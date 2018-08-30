@@ -1,0 +1,25 @@
+.card {
+    width: 400px;
+    margin: 5em auto;
+    border: 1px solid #155D74;
+
+}
+
+.card-header {
+    background-color:  #155D74;
+    color: #fff;
+}
+
+@media(max-width: 568px){
+   .card{ width: 100%;
+   }
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Crimson Text', serif;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+
+}
